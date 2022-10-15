@@ -14,3 +14,5 @@ Projets réalisés (par ordre croissant) :
 -	Réalisation d’un jeu multijoueur local (~60joueurs) sur un écran de cinéma en Java
 -	Réalisation d’une appli sous forme de client lourd (swing) et léger afin de réaliser une édition collaborative de documents. Avec Java, Servlet JSP et compétences web
 -	Réalisation d’un environnement 3D basique (forme géographiques) permettant de déplacer une caméra et ayant une gestion des collisions (avec un B-arbre)
+
+[le répôt des projets sur gitlab](https://gitlab.com/William-maillard)
