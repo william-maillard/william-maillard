@@ -18,8 +18,9 @@ Projets réalisés (par ordre croissant) :
 - Réalisation d'un site web de création d'annonces et réservation de logemment comme airbnb avec Java Spring (backend) et VueJS (frontend)
 - Implémentations d'algorithmes pour résoudre le 0/1-knapsack problème, et étude des résultats (temps d'exécution et solution trouvée par l'algorithme)
 - Extraction de données de feuilles de temps de formats différents et échanges de données entre une application et un serveur avec des messages sous format xml, en nodeJS
-- Application de création de modèle 3D de magasin et visite avec un méta-humain, sous l'unreal engine 5.1, avec création d'une base de données neo4j peupler avec de fausses données réalistes (avec JavaFaker)
+- <img src="https://gitlab.com/uploads/-/system/project/avatar/43180559/ecr_logo.png?width=64" /> Application de création de modèle 3D de magasin et visite avec un méta-humain, sous l'unreal engine 5.1, avec création d'une base de données neo4j peupler avec de fausses données réalistes (avec JavaFaker)
 - Création d'une wikibase sur les transport en commun remplit à partir de 3 sources différentes (1 parseur pour chaque sources permettant d'extraire les données et de les transformer en un format intermédiare, puis programme d'insertion de données dans la wikibase), et application permettant de réaliser des itinéraires pour un utilisateur en questionnant la wikibase.
 - Création d'un Hidden Markov Model (modèle de machine learning) pour faire du sentiment analysis.
 
 [le répôt des projets sur gitlab](https://gitlab.com/William-maillard)
+
