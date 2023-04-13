@@ -3,6 +3,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Projets réalisés (par ordre croissant) :
+
+## Licence (L2 & L3)
+
 -	[Jeu Bomberman](https://gitlab.com/William-maillard/ujm_l2_s3_programmation_imperative_i) en C avec la bibliothèque graphique MVL (surcouche de SDL)
 -	[Programme pour rendre déterministe un automate](https://gitlab.com/William-maillard/ujm_l2_s3_langages_formels) et savoir si un mot est reconnu par un automate en C
 -	Vérification du [parenthésage](https://gitlab.com/William-maillard/ujm_l2_s3_ue_architecture_des_ordinateurs) d’une phrase avec des couples de parenthèses donnée par l’utilisateur, en assembleur
@@ -14,6 +17,9 @@ Projets réalisés (par ordre croissant) :
 -	Réalisation d’un [jeu multijoueur local](https://gitlab.com/William-maillard/ujm_l3_s4_projet_tuteure) (~60joueurs) sur un écran de cinéma en Java
 -	Réalisation d’une [appli](https://gitlab.com/William-maillard/projetdw2) sous forme de client lourd (swing) et léger afin de réaliser une édition collaborative de documents. Avec Java, Servlet JSP et compétences web
 -	Réalisation d’un [environnement 3D](https://gitlab.com/William-maillard/ujm_l3_s6_ue_sai) basique (forme géographiques) permettant de déplacer une caméra et ayant une gestion des collisions (avec un B-arbre)
+
+
+## Master
 
 - Réalisation d'un [site web](https://gitlab.com/William-maillard/2022-pwa-d) de création d'annonces et réservation de logemment comme airbnb avec Java Spring (backend) et VueJS (frontend)
 - Implémentations d'algorithmes pour [résoudre le 0/1-knapsack problème](https://gitlab.com/William-maillard/m1-advanced_algorithms_knapsack), et étude des résultats (temps d'exécution et solution trouvée par l'algorithme)
