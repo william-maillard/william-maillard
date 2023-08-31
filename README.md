@@ -2,6 +2,12 @@
 You can click the Preview link to take a look at your changes.
 --->
 
+<a href="https://william-maillard.github.io/portfolio">Portfolio : william-maillard.githu.io/portfolio </a>
+
+Démos :
+- <a href="william-maillard.githu.io/drawing_app/">william-maillard.githu.io/drawing_app/</a>
+- <a href="william-maillard.githu.io/wargame/">william-maillard.githu.io/wargame/</a>
+
 Projets réalisés (par ordre croissant) :
 
 ## Licence (L2 & L3)
