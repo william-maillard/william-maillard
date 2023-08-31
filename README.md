@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://william-maillard.github.io/portfolio">Portfolio : william-maillard.githu.io/portfolio </a>
 
 Démos :
-- <a href="william-maillard.github.io/drawing_app/">william-maillard.github.io/drawing_app/</a>
-- <a href="william-maillard.github.io/wargame/">william-maillard.github.io/wargame/</a>
+- <a href="https://william-maillard.github.io/drawing_app/">https://william-maillard.github.io/drawing_app/</a>
+- <a href="https://william-maillard.github.io/wargame/">https://william-maillard.github.io/wargame/</a>
 
 Projets réalisés (par ordre croissant) :
 
