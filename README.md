@@ -9,7 +9,7 @@ Démos :
 - <a href="https://william-maillard.github.io/drawing_app/">https://william-maillard.github.io/drawing_app/</a>
 - <a href="https://william-maillard.github.io/wargame/">https://william-maillard.github.io/wargame/</a>
 - <a href="https://william-maillard.github.io/bomberman">https://william-maillard.github.io/bomberman</a> (work in progress)
-- <a href="https://william228.pythonanywhere.com/">https://william228.pythonanywhere.com/</a> (wainting for addition of wikibase cloud to the allowlist)
+- <a href="https://william228.pythonanywhere.com/">https://william228.pythonanywhere.com/</a> (waiting for addition of wikibase cloud to the allowlist)
 
 Projets réalisés (par ordre croissant) :
 
