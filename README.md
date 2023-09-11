@@ -10,6 +10,8 @@ Démos :
 - <a href="https://william-maillard.github.io/wargame/">https://william-maillard.github.io/wargame/</a>
 - <a href="https://william-maillard.github.io/bomberman">https://william-maillard.github.io/bomberman</a> (work in progress)
 - <a href="https://william228.pythonanywhere.com/">https://william228.pythonanywhere.com/</a> (waiting for addition of wikibase cloud to the allowlist)
+- Machine learning notebook in an executable environment <a href="https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md">https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md</a>
+- Deep learning hand written digits in an executable environment<a href="https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md">https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md</a>
 
 Projets réalisés (par ordre croissant) :
 
