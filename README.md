@@ -6,24 +6,25 @@ You can click the Preview link to take a look at your changes.
 
 Démos :
 - site php:
-  - <a href="https://desrestesunerecette.000webhostapp.com/">https://desrestesunerecette.000webhostapp.com/</a>
+  - <img src="https://gitlab.com/uploads/-/system/project/avatar/37201751/Capture_d_%C3%A9cran_2023-02-18_114633.png" width=15 height=15 /> <a href="https://desrestesunerecette.000webhostapp.com/">https://desrestesunerecette.000webhostapp.com/</a>
   
 - applications java (brought to the web with cheerpJ) :
-  - <a href="https://william-maillard.github.io/drawing_app/">https://william-maillard.github.io/drawing_app/</a>
-  - <a href="https://william-maillard.github.io/wargame/">https://william-maillard.github.io/wargame/</a>
+  - <img src="https://william-maillard.github.io/portfolio/images/L3/1_drawing_app/drawing_app.png" width=15 height=15 /> <a href="https://william-maillard.github.io/drawing_app/">https://william-maillard.github.io/drawing_app/</a>
+  - <img src="https://gitlab.com/uploads/-/system/project/avatar/37199027/Capture_d_%C3%A9cran_2023-02-18_113928.png" width=15 height=15 /> <a href="https://william-maillard.github.io/wargame/">https://william-maillard.github.io/wargame/</a>
   
 - applications c (brought to the web with emscripten):
-  - <a href="https://william-maillard.github.io/bomberman">https://william-maillard.github.io/bomberman</a> (work in progress)
-  - <a href="https://github.com/william-maillard/knn">https://github.com/william-maillard/knn</a> (work in progress)
-  - <a href="https://william-maillard.github.io/cpyrr/">https://william-maillard.github.io/cpyrr/</a> (work in progress)
+  - <img src="https://gitlab.com/uploads/-/system/project/avatar/37201572/bomberman.png" width=15 height=15 /> <a href="https://william-maillard.github.io/bomberman">https://william-maillard.github.io/bomberman</a> (work in progress)
+  - <img src="https://gitlab.com/uploads/-/system/project/avatar/35391483/decision-tree.png" width=15 height=15 /> <a href="https://github.com/william-maillard/knn">https://github.com/william-maillard/knn</a> (work in progress)
+  - <a href="https://william-maillard.github.io/cpyrr/"><img src="https://gitlab.com/uploads/-/system/project/avatar/37198558/cpyrr_logo_2.png" width=15 height=15/> https://william-maillard.github.io/cpyrr/</a> (work in progress)
 
 - Java+Spring+VueJS website :
-  - <a href="https://william-openairbnb.onrender.com">https://william-openairbnb.onrender.com</a> (can take up to 5m to start the website after is has been inactive for 15m due to free version)
+  - <img src="https://gitlab.com/uploads/-/system/project/avatar/42119334/favicon.ico" width=15 height=15 /> <a href="https://william-openairbnb.onrender.com">https://william-openairbnb.onrender.com</a> (can take up to 5m to start the website after is has been inactive for 15m due to free version)
 - Python Flask :
-  - <a href="https://william228.pythonanywhere.com/">https://william228.pythonanywhere.com/</a> (waiting for addition of wikibase cloud to the allowlist)
+  - <img src="https://gitlab.com/uploads/-/system/project/avatar/46561201/favicon.ico" width=15 height=15 /> <a href="https://william228.pythonanywhere.com/">https://william228.pythonanywhere.com/</a> (waiting for addition of wikibase cloud to the allowlist)
+  
 - Jupyter notebook in an executable environment :
-  - Machine learning : <a href="https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md">https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md</a>
-  - Deep learning hand written digits: <a href="https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md">https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md</a>
+  - <img src="https://william-maillard.github.io/portfolio/images/M1/7_ml/b.jpg" width=15 height=15 /> Machine learning : <a href="https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md">https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md</a>
+  - <img src="https://gitlab.com/uploads/-/system/project/avatar/46561252/deep-learning_w.png" width=15 height=15 /> Deep learning hand written digits: <a href="https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md">https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md</a>
 
 Projets réalisés (par ordre croissant) :
 
