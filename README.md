@@ -55,3 +55,10 @@ Projets réalisés (par ordre croissant) :
 
 [le répôt des projets sur gitlab](https://gitlab.com/users/William-maillard/projects)
 
+
+[![Repos Badge](https://badges.pufler.dev/repos/william-maillard)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/william-maillard/william-maillard)](https://badges.pufler.dev)  
+
+![https://profile-counter.glitch.me/william-maillard/count.svg](https://profile-counter.glitch.me/william-maillard/count.svg)  
+
+Last Stars Display :  
+[![Last Stars Display](https://badges.pufler.dev/last-stars/william-maillard?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
