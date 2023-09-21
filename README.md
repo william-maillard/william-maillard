@@ -13,9 +13,9 @@ Démos :
   - <img src="https://gitlab.com/uploads/-/system/project/avatar/37199027/Capture_d_%C3%A9cran_2023-02-18_113928.png" width=15 height=15 /> <a href="https://william-maillard.github.io/wargame/">https://william-maillard.github.io/wargame/</a>
   
 - applications c (brought to the web with emscripten):
-  - <img src="https://gitlab.com/uploads/-/system/project/avatar/37201572/bomberman.png" width=15 height=15 /> <a href="https://william-maillard.github.io/bomberman">https://william-maillard.github.io/bomberman</a> (work in progress)
-  - <img src="https://gitlab.com/uploads/-/system/project/avatar/35391483/decision-tree.png" width=15 height=15 /> <a href="https://github.com/william-maillard/knn">https://github.com/william-maillard/knn</a> (work in progress)
-  - <a href="https://william-maillard.github.io/cpyrr/"><img src="https://gitlab.com/uploads/-/system/project/avatar/37198558/cpyrr_logo_2.png" width=15 height=15/> https://william-maillard.github.io/cpyrr/</a> (work in progress)
+  - <img src="https://gitlab.com/uploads/-/system/project/avatar/37201572/bomberman.png" width=15 height=15 /> <a href="https://william-maillard.github.io/bomberman">https://william-maillard.github.io/bomberman</a> (work in progress, optimizing how textures are loaded and fixing some events issues)
+  - <img src="https://gitlab.com/uploads/-/system/project/avatar/35391483/decision-tree.png" width=15 height=15 /> <a href="https://github.com/william-maillard/knn">https://github.com/william-maillard/knn</a> (work in progress, fixing event issues)
+  - <a href="https://william-maillard.github.io/cpyrr/"><img src="https://gitlab.com/uploads/-/system/project/avatar/37198558/cpyrr_logo_2.png" width=15 height=15/> https://william-maillard.github.io/cpyrr/</a> (work in progress, designing the interface, the compiler and VM has been successfully tested on a helloWorld.cpyrr program.)
 
 - Java+Spring+VueJS website :
   - <img src="https://gitlab.com/uploads/-/system/project/avatar/42119334/favicon.ico" width=15 height=15 /> <a href="https://william-openairbnb.onrender.com">https://william-openairbnb.onrender.com</a> (can take up to 5m to start the website after is has been inactive for 15m due to free version)
