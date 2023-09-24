@@ -14,7 +14,7 @@ Démos :
   
 - applications c (brought to the web with emscripten):
   - <img src="https://gitlab.com/uploads/-/system/project/avatar/37201572/bomberman.png" width=15 height=15 /> <a href="https://william-maillard.github.io/bomberman">https://william-maillard.github.io/bomberman</a> (work in progress, optimizing how textures are loaded and fixing some events issues)
-  - <img src="https://gitlab.com/uploads/-/system/project/avatar/35391483/decision-tree.png" width=15 height=15 /> <a href="https://william-maillard.github.io/knn">https://github.com/william-maillard/knn</a> (work in progress, fixing event issues)
+  - <img src="https://gitlab.com/uploads/-/system/project/avatar/35391483/decision-tree.png" width=15 height=15 /> <a href="https://william-maillard.github.io/knn">https://william-maillard.github.io/knn</a> (work in progress, fixing event issues)
   - <a href="https://william-maillard.github.io/cpyrr/"><img src="https://gitlab.com/uploads/-/system/project/avatar/37198558/cpyrr_logo_2.png" width=15 height=15/> https://william-maillard.github.io/cpyrr/</a> (working, still working on some additionnals features like redirected the stderr flow and displaying the intermediate tree)
 
 - Java+Spring+VueJS website :
