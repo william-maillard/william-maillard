@@ -9,8 +9,8 @@ Démos :
   - <img src="https://gitlab.com/uploads/-/system/project/avatar/37201751/Capture_d_%C3%A9cran_2023-02-18_114633.png" width=15 height=15 /> <a href="https://desrestesunerecette.000webhostapp.com/">https://desrestesunerecette.000webhostapp.com/</a>
   
 - applications java (brought to the web with cheerpJ) :
-  - <img src="https://william-maillard.github.io/portfolio/images/L3/1_drawing_app/drawing_app.png" width=15 height=15 /> <a href="https://william-maillard.github.io/drawing_app/">https://william-maillard.github.io/drawing_app/</a>
-  - <img src="https://gitlab.com/uploads/-/system/project/avatar/37199027/Capture_d_%C3%A9cran_2023-02-18_113928.png" width=15 height=15 /> <a href="https://william-maillard.github.io/wargame/">https://william-maillard.github.io/wargame/</a>
+  - <img src="https://william-maillard.github.io/drawing_app/assets/img/favicon.ico" width=15 height=15 /> <a href="https://william-maillard.github.io/drawing_app/">https://william-maillard.github.io/drawing_app/</a>
+  - <img src="https://william-maillard.github.io/wargame/assets/img/favicon.ico" width=15 height=15 /> <a href="https://william-maillard.github.io/wargame/">https://william-maillard.github.io/wargame/</a>
   
 - applications c (brought to the web with emscripten):
   - <img src="https://gitlab.com/uploads/-/system/project/avatar/37201572/bomberman.png" width=15 height=15 /> <a href="https://william-maillard.github.io/bomberman">https://william-maillard.github.io/bomberman</a> (work in progress, optimizing how textures are loaded and fixing some events issues)
