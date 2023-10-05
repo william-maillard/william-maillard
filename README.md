@@ -18,9 +18,10 @@ Démos :
   - <a href="https://william-maillard.github.io/cpyrr/"><img src="https://gitlab.com/uploads/-/system/project/avatar/37198558/cpyrr_logo_2.png" width=15 height=15/> https://william-maillard.github.io/cpyrr/</a> (working, still working on some additionnals features like redirected the stderr flow and displaying the intermediate tree)
 
 - Java+Spring+VueJS website :
-  - <img src="https://gitlab.com/uploads/-/system/project/avatar/42119334/favicon.ico" width=15 height=15 /> <a href="https://william-openairbnb.onrender.com">https://william-openairbnb.onrender.com</a> (can take up to 5m to start the website after is has been inactive for 15m due to free version)
+  - <img src="https://gitlab.com/uploads/-/system/project/avatar/42119334/favicon.ico" width=15 height=15 /> <a href="https://dsc1-pwa-d-openairbnb.herokuapp.com/">https://dsc1-pwa-d-openairbnb.herokuapp.com/</a>
+ 
 - Python Flask :
-  - <img src="https://gitlab.com/uploads/-/system/project/avatar/46561201/favicon.ico" width=15 height=15 /> <a href="https://william228.pythonanywhere.com/">https://william228.pythonanywhere.com/</a> (waiting for addition of wikibase cloud to the allowlist)
+  - <img src="https://gitlab.com/uploads/-/system/project/avatar/46561201/favicon.ico" width=15 height=15 /> <a href="https://alpestransport-ce5c8fdbf287.herokuapp.com/">https://alpestransport-ce5c8fdbf287.herokuapp.com/</a>
   
 - Jupyter notebook in an executable environment :
   - <img src="https://william-maillard.github.io/portfolio/images/M1/7_ml/b.jpg" width=15 height=15 /> Machine learning : <a href="https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md">https://mybinder.org/v2/gl/William-maillard%2Fm1_ml_hmm/main?labpath=README.md</a>
