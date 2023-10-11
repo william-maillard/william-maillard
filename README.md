@@ -61,5 +61,8 @@ Projets réalisés (par ordre croissant) :
 
 ![https://profile-counter.glitch.me/william-maillard/count.svg](https://profile-counter.glitch.me/william-maillard/count.svg)  
 
+<script async data-id="101429767" src="//static.getclicky.com/js"></script>
+
+
 Last Stars Display :  
 [![Last Stars Display](https://badges.pufler.dev/last-stars/william-maillard?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
