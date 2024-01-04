@@ -63,6 +63,11 @@ Projets réalisés (par ordre croissant) :
 - application de création de modèle 3D de magasin et visite avec un méta-humain, sous l'unreal engine 5.1, avec création d'une base de données neo4j peupler avec de fausses données réalistes (avec JavaFaker)
 - Création d'une wikibase sur les transport en commun remplit à partir de 3 sources différentes (1 parseur pour chaque sources permettant d'extraire les données et de les transformer en un format intermédiare, puis programme d'insertion de données dans la wikibase), et application permettant de réaliser des itinéraires pour un utilisateur en questionnant la wikibase.
 - Création d'un Hidden Markov Model (modèle de machine learning) pour faire du sentiment analysis.
+- Implémentation de des algorithmes HMAC, HOTP et TOTP pour la génération de One Time Password (OTP)
+- Réalisation d'un système de recherche d'information pour des documents xml avec exploitation des liens entre les documents (pagerank)
+- études de différents modèles de deep learning et méthodes de pré-processing pour effectuer une traduction de texte (en->fr)
+- Réalisation d'une onthologie (protégé+jena) à partir de données sémantique (json+ld) scrappé sur des sites web (de restaurants) pour faire une application de livraison.
+- data mining
 
 [le répôt des projets sur gitlab](https://gitlab.com/users/William-maillard/projects)
 
