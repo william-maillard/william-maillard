@@ -4,6 +4,8 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://william-maillard.github.io/portfolio">Portfolio : william-maillard.githu.io/portfolio </a>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/WilliamMaillard.png" alt="TryHackMe">
+
 Démos :
 - site php:
   - <img src="https://gitlab.com/uploads/-/system/project/avatar/37201751/Capture_d_%C3%A9cran_2023-02-18_114633.png" width=15 height=15 /> <a href="https://desrestesunerecette.000webhostapp.com/">https://desrestesunerecette.000webhostapp.com/</a>
