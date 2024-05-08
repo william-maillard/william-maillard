@@ -3,6 +3,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://william-maillard.github.io/portfolio">Portfolio : william-maillard.githu.io/portfolio </a>
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/WilliamMaillard.png" alt="TryHackMe">
 
 
